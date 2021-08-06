@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LeoCardoso93
-- 👀 I’m interested in Learn programming
+- 👀 I’m interested in learn programming
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me @leocardososkt
